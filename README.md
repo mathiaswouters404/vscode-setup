@@ -1,6 +1,7 @@
 # vscode-setup
 
-# Link --> (VSCode-Settings-CodingGarden)[https://github.com/CodingGarden/vscode-settings]
+- (VSCode-Settings-CodingGarden)[https://github.com/CodingGarden/vscode-settings]
+- (YouTube)[https://www.youtube.com/watch?v=GK7zLYAXdDs] --> Minute: 48:34
 
 ## Font
 
